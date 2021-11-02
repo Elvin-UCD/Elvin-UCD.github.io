@@ -44,7 +44,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - Expected Graduation: June 2022
 - Intended Major: Bachelor of Science in Computer Engineering - College of Engineering
 - Intended Minor: Technology Management - Graduate School of Management
-- [lasses and Grades at UC Davis] (/grades)
+- [Classes and Grades at UC Davis] (https://elvin-ucd.github.io//grades)
 
 <!--
 **University of California, Davis - M.S.**
