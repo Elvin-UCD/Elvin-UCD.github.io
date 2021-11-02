@@ -44,6 +44,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - Expected Graduation: June 2022
 - Intended Major: Bachelor of Science in Computer Engineering - College of Engineering
 - Intended Minor: Technology Management - Graduate School of Management
+- [lasses and Grades at UC Davis] (/grades)
 
 <!--
 **University of California, Davis - M.S.**
@@ -73,7 +74,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Work Experience
 #### Customer Quality Engineering Intern | Texas Instruments | Santa Clara, CA | June 2021 - August 2021
-- Automated electrical characterizatrion data of new devices into customer deliverable formats. Turning hours of work into seconds
+- Automated electrical characterizatrion data of new devices into customer deliverable formats, reducing hours of work into minutes
 - Served as a team leader for multi-discipline teams to solve customer problems with devices
 - Balanced internal business unit's customer satisfaction indices and customer quality indices
 
@@ -97,3 +98,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - Operated Conference Desk Services and Registration during the Summer Season at the UC Davis Residential Halls
 - Demonstrated initiative in completeing tasks and following up on guests
 - Responded to guest complains and issues, solving them to the guest's satisfacton
+
+## Memberships
+- President | Tzu Chi Collegiate Association at UC Davis | June 2021 - June 2022
+- Treasurer | Tzu Chi Collegiate Association at UC Davis | June 2019 - June 2022
+- Events Chair | Tzu Chi Collegiate Association at UC Davis | June 2019 - June 2021
