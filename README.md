@@ -42,10 +42,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## Education
 #### University of California - Davis
 - Expected Graduation: June 2022
-- Intended Major: Bachelor of Science in Computer Engineering
-  - College of Engineering
-- Intended Minor: Technology Management
-  - Graduate School of Management
+- Intended Major: Bachelor of Science in Computer Engineering - College of Engineering
+- Intended Minor: Technology Management - Graduate School of Management
 
 <!--
 **University of California, Davis - M.S.**
@@ -53,6 +51,25 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - Intended Degree: Master of Science in Computer Engineering
  - College of Engineering
 --> 
+
+## Skills
+#### Computer
+- Knowlegeable in the Microsoft Suite, Google Suite, Windows Operating System, Debugging, and Troubleshooting
+- Practiced in C, C++, and Visual Basic
+- Adapts and learns to new technology systems quickly and thorougly
+
+#### Customer Service
+- Experienced with keeping calm and communicating with disgruntled guests/customers
+- Maintains composure and diplomacy in high stress situations
+- Exemplifies appreciation of differences while fostering an inclusive community
+
+## Projects
+### ECS 150
+#### Simple Shell
+
+#### User Level Thread Library
+
+#### Emulated FAT-Based Filesystem
 
 ## Work Experience
 #### Customer Quality Engineering Intern | Texas Instruments | Santa Clara, CA | June 2021 - August 2021
