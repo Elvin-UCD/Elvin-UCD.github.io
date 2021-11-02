@@ -100,6 +100,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - Responded to guest complains and issues, solving them to the guest's satisfacton
 
 ## Memberships
-- President | Tzu Chi Collegiate Association at UC Davis | June 2021 - June 2022
-- Treasurer | Tzu Chi Collegiate Association at UC Davis | June 2019 - June 2022
-- Events Chair | Tzu Chi Collegiate Association at UC Davis | June 2019 - June 2021
+- President \| Tzu Chi Collegiate Association at UC Davis \| June 2021 - June 2022
+- Treasurer \| Tzu Chi Collegiate Association at UC Davis \| June 2019 - June 2022
+- Events Chair \| Tzu Chi Collegiate Association at UC Davis \| June 2019 - June 2021
