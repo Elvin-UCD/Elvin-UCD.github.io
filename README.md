@@ -53,6 +53,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  - College of Engineering
 --> 
 
+## Future Plans
+### [Current and Future Plans](/future)
+
 ## Skills
 #### Computer
 - Knowlegeable in the Microsoft Suite, Google Suite, Windows Operating System, Debugging, and Troubleshooting
