@@ -38,10 +38,10 @@ permalink: /grades/
 - EEC 018 \| Digital Systems 1 \| A+
 - EEC 100 \| Circuits II \| A+
 - EEC 111 \| Digital Electronic Circuits \| A-
-- EEC 161 \| Probabilistic Analysis \| *In Progress*
+- EEC 161 \| Probabilistic Analysis \| A
 - EEC 170 \| Intro to Computer Architecture \| A+
 - EEC 172 \| Embedded Systems \| A-
-- EEC 174AY \| Applied Machine Learning \| *In Progress*
+- EEC 174AY \| Applied Machine Learning \| A+
 - EEC 196 \| Issues in Engineering Design \| *In Progress*
 - EEC 289Q \| Computer Engineering \| *In Progress*
 
