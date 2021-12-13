@@ -17,8 +17,8 @@
 
 ### Spring Quarter - 2022
 - ECS 174 \| Computer Vision \| Upper Division Course (4 units)
-- EEC 389 \| Teaching Assitant Teaching Practice \| TA Course (? units)
-- ENG 190 \| Professional Responsibilities of Engineers \| Upper Division Course (4 units)
+- EEC 396 \| Teaching Assitant Teaching Practice \| TA Course (2 units)
+- ENG 190 \| Professional Responsibilities of Engineers \| Upper Division Course (3 units)
 - MGT 150 \| Technology Management \| Upper Division Course (4 units)
 
 ## Research
