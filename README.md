@@ -67,6 +67,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - Maintains composure and diplomacy in high stress situations
 - Exemplifies appreciation of differences while fostering an inclusive community
 
+<!--
 ## Projects
 ### ECS 150
 #### Simple Shell
@@ -74,6 +75,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 #### User Level Thread Library
 
 #### Emulated FAT-Based Filesystem
+--> 
 
 ## Work Experience
 #### Customer Quality Engineering Intern | Texas Instruments | Santa Clara, CA | June 2021 - August 2021
