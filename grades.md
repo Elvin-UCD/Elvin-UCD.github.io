@@ -31,23 +31,31 @@ permalink: /grades/
 - ECS 036C \| Data Structures \| A
 - ECS 122A \| Algorithm Design and Analysis \| A+
 - ECS 150 \| Operating Systems \| A+
+- ECS 170 \| Artificial Intelligence \| A
+- ECS 174 \| Computer Vision \| *In Progress*
 
 ### Engineering Electrical and Computer
 - EEC 001 \| Intro to ECE \| P
 - EEC 010 \| Intro to Digital and Analog Systems \| A
-- EEC 018 \| Digital Systems 1 \| A+
+- EEC 018 \| Digital Systems I \| A+
 - EEC 100 \| Circuits II \| A+
 - EEC 111 \| Digital Electronic Circuits \| A-
 - EEC 161 \| Probabilistic Analysis \| A
 - EEC 170 \| Intro to Computer Architecture \| A+
 - EEC 172 \| Embedded Systems \| A-
+- EEC 173A \| Computer Networks \| A
 - EEC 174AY \| Applied Machine Learning \| A+
-- EEC 196 \| Issues in Engineering Design \| *In Progress*
-- EEC 289Q \| Computer Engineering \| *In Progress*
+- EEC 174AY \| Applied Machine Learning Projects \| A
+- EEC 180 \| Digital System II \| A
+- EEC 196 \| Issues in Engineering Design \| A
+- EEC 289Q \| Parallel Computing \| A
+- EEC 289Q \| Hardware Security \| A-
 
 ### Engineering
 - ENG 003 \| Intro to Engineering Design \| A
+- ENG 006 \| Engineering Problem Solving \| *In Progress*
 - ENG 017 \| Circuits I \| B
+- ENG 190 \| Professional Responsibilities of Engineers \| *In Progress*
 
 ### English
 - ENL 003 \| Intro to Literature \| A
@@ -68,7 +76,8 @@ permalink: /grades/
 ### Management
 - MGT 011A \| Elementary Accounting \| A
 - MGT 011B \| Elementary Accounting \| A+
-- MGT 120 \| Managing and Using Info Technology \| *In Progress*
+- MGT 120 \| Managing and Using Info Technology \| A-
+- MGT 150 \| Technology Management \| *In Progress*
 - MGT 160 \| Financing New Business Ventures \| A-
 - MGT 170 \| Management Accounting \| A+
 - MGT 180 \| Supply Chain Mangement \| A
@@ -78,6 +87,9 @@ permalink: /grades/
 - MUS TR2 \| Jazz Ensemble at Ohlone College \| A
 - MUS TR3 \| Jazz Ensemble at Ohlone College \| A
 - MUS TR4 \| Community Orchestra at Ohlone College \| A
+
+### Nutrition
+- NUT 011 \| Current Topics in Nutrition \| A+
 
 ### Philosophy
 - PHI 001 \| Intro to Philosophy \| A
@@ -98,3 +110,5 @@ permalink: /grades/
 
 ### University Writing Program
 - UWP 101 \| Advanced Composition \| A-
+
+##### Updated 5/19/2022
