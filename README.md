@@ -40,18 +40,17 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 *Davis, CA, 95616 | (510) 358-6999 | [elyhuang@ucdavis.edu](elyhuang@ucdavis.edu)*
 
 ## Education
-#### University of California - Davis
+#### University of California, Davis - B.S.
 - Expected Graduation: June 2022
 - Intended Major: Bachelor of Science in Computer Engineering - College of Engineering
 - Intended Minor: Technology Management - Graduate School of Management
 - [Classes and Grades at UC Davis](/grades)
 
-<!--
-**University of California, Davis - M.S.**
+
+#### University of California, Davis - M.S.
 - Expected Graduation: June 2023
-- Intended Degree: Master of Science in Computer Engineering
- - College of Engineering
---> 
+- Intended Degree: Master of Science in Computer Engineering - College of Engineering
+
 
 ## Future Plans
 ### [Current and Future Plans](/future)
@@ -107,4 +106,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## Memberships
 - President \| Tzu Chi Collegiate Association at UC Davis \| June 2021 - June 2022
 - Treasurer \| Tzu Chi Collegiate Association at UC Davis \| June 2019 - June 2022
-- Events Chair \| Tzu Chi Collegiate Association at UC Davis \| June 2019 - June 2021
+- Events Chair \| Tzu Chi Collegiate Association at UC Davis \| June 2019 - June 2022
