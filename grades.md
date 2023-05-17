@@ -6,7 +6,7 @@ permalink: /grades/
 # Classes and Grades
 
 ## University of California - Undergraduate 
-## GPA: 3.86
+GPA: 3.86
 
 ### Asian American Studies
 - ASA 004 \| Asian American Cultural Studies \| A+
