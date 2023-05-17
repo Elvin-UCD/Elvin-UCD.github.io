@@ -1,32 +1,27 @@
 # Current and Future Plans
 
 ## Classes
-### Fall Quarter - 2021
-- EEC 161 \| Probabilistic Analysis \| Upper Division Course (4 units)
-- EEC 174AY \| Applied Machine Learning - Senior Design Project \| Design Course (3 units)
-- EEC 196 \| Issues in Engineering Design \| Seminar (1 unit)
-- EEC 289Q \| Parallel Programming \| Graduate Course (4 units)
-- MGT 120 \| Using and Managing Info Tech \| Upper Division Course (4 units)
+### Spring Quarter - 2023
+- ECS 245 \| Micro and Nano Technology in Life Sciences \| Graduate Course (4 units)
+- EEC 269A \| Error Correcting Codes \| Graduate Course (4 units)
+- EEC 273 \| Network Architecture and Resource Management \| Graduate Course (4 units)
+- EEC 290 \| Seminar in Electrical and Computer Engineering \| Seminar Units (1 units)
+- EEC 299 \| Research \| Research Units (2 units)
 
-### Winter Quarter - 2022
-- ECS 170 \| Artificial Intelligence \| Upper Division Course (4 units)
-- EEC 173A \| Computer Networks \| Upper Division Course (4 units)
-- EEC 174BY \| Applied Machine Learning - Senior Design Project \| Design Course (3 units)
-- EEC 289Q \| Hardware Security \| Graduate Course (4 units)
-- NUT 011 \| Current Topics in Nutrition \| General Education (2 units)
-
-### Spring Quarter - 2022
-- ECS 174 \| Computer Vision \| Upper Division Course (4 units)
-- EEC 396 \| Teaching Assitant Teaching Practice \| TA Course (2 units)
-- ENG 190 \| Professional Responsibilities of Engineers \| Upper Division Course (3 units)
-- MGT 150 \| Technology Management \| Upper Division Course (4 units)
-
-## Research
-### Firefighting Smart Suit 
-- General Topic: Firefighting Smart Suit
-- Sub topic: Gas Sensor Array - Machine Learning
+## Papers
+### Website Inferencing using GPU Side Channel Attack 
+- General Topic: Website Inferencing through GPU
+- Sub topic: GPU based Side Channel Attack
 - Summary:
-  - The goal of this research project is to create an array of high quality, light-weight, low-power, and ultrareliable gas sensors to effectively and accurately detect hazardous gases and their respective concentrations using sensor data and machine learning.   
+  - The goal of this paper is to show the feasibility of inferencing a website an user is accessing by watching memory allocation of the GPU. The GPU is used to render websites, and each website has a unique memory trace when rendering the website. Therefore, the goal is to show that it is possible to track the websites an user is accessing through the GPU memory trace.
 
-## Internship
-### Product Engineering Intern \| Texas Instruments \| Santa Clara, CA \| Expected Dates: June 2022 - August 2022
+## Master Project
+### Website Inferencing using GPU Side Channel Attack 
+- General Topic: Website Inferencing through GPU
+- Sub topic: GPU based Side Channel Attack
+- Summary:
+  - The goal of this paper is to show the feasibility of inferencing a website an user is accessing by watching memory allocation of the GPU. The GPU is used to render websites, and each website has a unique memory trace when rendering the website. Therefore, the goal is to show that it is possible to track the websites an user is accessing through the GPU memory trace.
+
+
+## Job
+### Product Engineer \| Texas Instruments \| Santa Clara, CA \| Expected Start Date: August 2023
