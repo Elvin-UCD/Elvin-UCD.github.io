@@ -32,7 +32,7 @@ permalink: /grades/
 - ECS 122A \| Algorithm Design and Analysis \| A+
 - ECS 150 \| Operating Systems \| A+
 - ECS 170 \| Artificial Intelligence \| A
-- ECS 174 \| Computer Vision \| *In Progress*
+- ECS 174 \| Computer Vision \| A+
 
 ### Engineering Electrical and Computer
 - EEC 001 \| Intro to ECE \| P
@@ -53,9 +53,9 @@ permalink: /grades/
 
 ### Engineering
 - ENG 003 \| Intro to Engineering Design \| A
-- ENG 006 \| Engineering Problem Solving \| *In Progress*
+- ENG 006 \| Engineering Problem Solving \| A+
 - ENG 017 \| Circuits I \| B
-- ENG 190 \| Professional Responsibilities of Engineers \| *In Progress*
+- ENG 190 \| Professional Responsibilities of Engineers \| A
 
 ### English
 - ENL 003 \| Intro to Literature \| A
@@ -77,7 +77,7 @@ permalink: /grades/
 - MGT 011A \| Elementary Accounting \| A
 - MGT 011B \| Elementary Accounting \| A+
 - MGT 120 \| Managing and Using Info Technology \| A-
-- MGT 150 \| Technology Management \| *In Progress*
+- MGT 150 \| Technology Management \| A
 - MGT 160 \| Financing New Business Ventures \| A-
 - MGT 170 \| Management Accounting \| A+
 - MGT 180 \| Supply Chain Mangement \| A
@@ -111,4 +111,4 @@ permalink: /grades/
 ### University Writing Program
 - UWP 101 \| Advanced Composition \| A-
 
-##### Updated 5/19/2022
+##### Updated 5/16/2023
