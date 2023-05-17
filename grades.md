@@ -5,6 +5,25 @@ permalink: /grades/
 -->
 # Classes and Grades
 
+## University of California - Graduate (GPA: 3.74)
+
+### Engineering Electrical and Computer
+- EEC 151 \| Digital Signals and Systems \| A+
+- EEC 157A \| Control Systems \| B+
+- EEC 200 \| Navigating Grad School \| S
+- EEC 244 \| Intro to Neuroengineering \| A-
+- EEC 245 \| Micro and Nano Technology in Life Sciences \| *In Progress*
+- EEC 269A \| Error Correcting Codes \| *In Progress*
+- EEC 270 \| Computer Architecture \| A-
+- EEC 273 \| Network Architecture and Resource Management \| *In Progress*
+- EEC 279 \| Modern Parallel Computing \| A
+- EEC 290 \| Seminar in Electrical and Computer Engineering \| S
+- EEC 290 \| Seminar in Electrical and Computer Engineering \| S
+- EEC 290 \| Seminar in Electrical and Computer Engineering \| *In Progress*
+- EEC 299 \| Research \| S
+- EEC 299 \| Research \| *In Progress*
+- EEC 390 \| Teaching Electrical Engineering \| S
+
 ## University of California - Undergraduate (GPA: 3.86)
 
 ### Asian American Studies
